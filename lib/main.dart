@@ -2,7 +2,7 @@ import 'package:app_clean_architecture/constant.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import 'Features/splash/presentation/views/splashview.dart';
+import 'Features/Splash/presentation/views/splashview.dart';
 
 void main() {
   runApp(const MyApp());
